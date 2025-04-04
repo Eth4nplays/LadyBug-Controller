@@ -15,3 +15,7 @@ Bluetooth remote app for the RoboForce LadyBug made with AI2
 
 ## Installation 💾
 - Go to releases > select latest version > download Ladybug.apk
+- You can also click [here](https://github.com/Eth4nplays/LadyBug-Controller/releases/latest/download/Ladybug.apk) to install.
+
+## Note ⚠️
+- Ladybug.aia in the repo files is meant to be opened in AI2 (App Inventor 2)
