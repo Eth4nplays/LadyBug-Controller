@@ -1,4 +1,4 @@
-# LadyBug-Controller
+# LadyBug Remote
 Bluetooth remote app for the RoboForce LadyBug made with AI2
 
 ## Features 📃
