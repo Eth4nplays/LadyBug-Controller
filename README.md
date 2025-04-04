@@ -4,7 +4,7 @@ Bluetooth remote app for the RoboForce LadyBug made with AI2
 ## Features 📃
 - 🎮 Easy to use game controller to control LadyBug
 - 📱 Simple and modern interface
-- ⌨ Serial Bluetooth Controller to send and receive data from LadyBug
+- 🔷️ Serial Bluetooth Controller to send and receive data from LadyBug
 - 📋 Easy to understand instructions
 
 ## Screenshots 📸
