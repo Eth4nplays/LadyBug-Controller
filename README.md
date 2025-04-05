@@ -1,5 +1,5 @@
 # 🐞 LadyBug Remote
-Bluetooth remote app for the RoboForce LadyBug made with AI2
+Bluetooth remote app for the RoboForce LadyBug made with AI2. 
 For more information about LadyBug, click [here!](https://roboforce.com.my/helloladybug/)
 
 ## Features 📃
