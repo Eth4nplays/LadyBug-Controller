@@ -1,6 +1,8 @@
 # 🐞 LadyBug Remote
 Bluetooth remote app for the RoboForce LadyBug made with AI2. 
 For more information about LadyBug, click [here!](https://roboforce.com.my/helloladybug/)
+>[!NOTE]
+>I recommend downloading the Ladybug Remote app over here, as you can get the latest release.
 
 ## Features 📃
 - 🎮 Easy to use game controller to control LadyBug
