@@ -19,4 +19,4 @@ For more information about LadyBug, click [here!](https://roboforce.com.my/hello
 - You can also click [here](https://github.com/Eth4nplays/LadyBug-Controller/releases/latest/download/Ladybug.apk) to install.
 
 ## Source Code 💻
-- Download raw Ladybug.aia in repo files, go to [App Inventor 2](https://ai2.appinventor.mit.edu/) and import the file.
+- Download Ladybug.aia in repo files, go to [App Inventor 2](https://ai2.appinventor.mit.edu/) and import the file.
