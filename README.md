@@ -1,13 +1,18 @@
 # 🐞 LadyBug Remote
 An open-source Bluetooth remote controller for the RoboForce LadyBug robot, built using MIT App Inventor 2.
 
->[!NOTE]
->We are currently working on improving and testing this app for wider release.
->A Google Play version is planned for future updates once testing is complete.
->If you would like to help test or give feedback, you can join here:
-  https://docs.google.com/forms/d/e/1FAIpQLSehyz-3OpdGqUQBQpF_lks9ruyYV7bM2gma9iUwEYQbdP3FXg/viewform?usp=dialog
-
 For more information about LadyBug, click [here](https://roboforce.com.my/helloladybug/).
+<p align="start">
+  <a href="https://play.google.com/store/apps/details?id=appinventor.ai_eth4nplaysuploads.Ladybug">
+    <img
+      src="https://github.com/user-attachments/assets/61fb542c-44ba-486c-9bc4-e68d27c2cbe7"
+      alt="Get it on Google Play"
+      width="220">
+  </a>
+</p>
+
+Our app is now on Google Play! For other devices, you may download our app directly from [here](https://github.com/Eth4nplays/LadyBug-Controller/releases).
+
 
 ## ✨ Features
 - 🎮 Game-style controller for easy robot movement control
